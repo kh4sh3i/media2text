@@ -108,7 +108,7 @@ def tune_text_with_openrouter(text: str, language: str) -> str:
             {"role": "system", "content": instructions},
             {"role": "user", "content": text},
         ],
-        "temperature": 0.2,
+        "temperature": 0.3,
     }
 
     try:
