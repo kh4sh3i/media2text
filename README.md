@@ -48,6 +48,11 @@ python media2text.py "path/to/media"
 | Whisper   | ✅ Yes       | ✅ Yes  | Best balance of accuracy/speed |
 | DeepSeek  | ✅ Yes       | ❌ No   | Requires API key via OpenRouter |
 
+
+## Tip
+for export audio from video file you sohuld install FFmpeg
+
 ## 📄 License
 
 MIT License. Use freely, credit appreciated.
+

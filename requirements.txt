@@ -1,0 +1,6 @@
+moviepy
+whisper
+openai
+requests
+pydub
+python-dotenv
